@@ -41,7 +41,7 @@ Meteorological Data
     - Daily precipitation records
     - Maximum and minimum temperature
     - Wind speed data
-
+## Use the Jupyter notebook vic_tutorial.ipynb in the scripts folder
 Contributing
 Feel free to submit issues and enhancement requests.
 
