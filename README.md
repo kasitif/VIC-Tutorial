@@ -41,6 +41,11 @@ Meteorological Data
     - Daily precipitation records
     - Maximum and minimum temperature
     - Wind speed data
+Video Links on Input file preparations
+1. https://youtu.be/lCJwYMlxuew
+2. https://youtu.be/FdHT_K7ILRg
+3. https://youtu.be/08uVoB_tBLA
+4. https://youtu.be/ZOxnxcCPBJM
 ## Use the Jupyter notebook vic_tutorial.ipynb in the scripts folder
 Contributing
 Feel free to submit issues and enhancement requests.
