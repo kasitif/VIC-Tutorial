@@ -41,6 +41,11 @@ Meteorological Data
     - Daily precipitation records
     - Maximum and minimum temperature
     - Wind speed data
+
+## Note that:
+  ### -High-resolution datasets should be used for variables that capture sub-grid heterogeneity, such as elevation and vegetation parameters influencing snow variability (e.g., DEM, land cover, LAI, albedo).
+  ### -Simulation-resolution (Lower Resolution) datasets (in this case, 1km) should be used for forcing data, soil properties, and most meteorological inputs.
+
 Video Links on Input file preparations
 1. https://youtu.be/lCJwYMlxuew
 2. https://youtu.be/FdHT_K7ILRg
